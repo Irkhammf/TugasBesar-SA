@@ -8,10 +8,7 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-#Untuk melihat secara detail waktu eksekusi program
 
-
-# %load_ext autotime
 
 from itertools import permutations
 
